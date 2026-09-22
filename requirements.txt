@@ -1,1 +1,1 @@
-license
+# tkinter ships with the Python standard library - no extra dependencies required

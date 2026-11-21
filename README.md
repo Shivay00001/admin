@@ -1,5 +1,7 @@
 # Admin — ERP Key Generator
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Desktop GUI app (tkinter). Generates license keys for the Indian SMB ERP product (admin tool — not for end users).
 
 ## Run
